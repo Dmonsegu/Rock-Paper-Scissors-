@@ -1,0 +1,10 @@
+> python main.py
+> }
+Final results: {'p1': 994, 'p2': 2, 'tie': 4}
+Player 1 win rate: 99.79919678714859%
+Final results: {'p1': 403, 'p2': 308, 'tie': 289}
+Player 1 win rate: 56.68073136427567%
+Final results: {'p1': 464, 'p2': 215, 'tie': 321}
+Player 1 win rate: 68.33578792341679%
+Final results: {'p1': 721, 'p2': 188, 'tie': 91}
+Player 1 win rate: 79.31793179317933%
